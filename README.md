@@ -1,3 +1,44 @@
+# Rota Inteligente: Otimização de Entregas com Algoritmos de IA para Sabor Express
+
+## 1. Descrição do Projeto
+
+Este projeto implementa uma solução de otimização de rotas para a empresa fictícia de delivery de alimentos "Sabor Express". Utilizando conceitos de Inteligência Artificial, o sistema é capaz de agrupar pontos de entrega próximos e calcular o caminho mais eficiente para cada entregador, visando reduzir custos operacionais e o tempo de entrega.
+
+A solução é baseada em:
+- **Grafos**: Para representar o mapa da cidade, onde os nós são localidades e as arestas são ruas com pesos (distância ou tempo).
+- **Algoritmo de Clustering (K-Means)**: Para agrupar geograficamente as entregas e atribuí-las a diferentes entregadores.
+- **Algoritmo de Busca (Dijkstra)**: Para encontrar o caminho mais curto entre dois pontos no grafo.
+- **Heurística do Vizinho Mais Próximo**: Para determinar a ordem de visita das entregas dentro de um mesmo cluster.
+
+## 2. Estrutura do Projeto
+
+O projeto está organizado da seguinte forma:
+
+- **/src**: Contém todo o código-fonte da aplicação, dividido em módulos.
+- **/data**: Armazena os arquivos de dados, como o mapa da cidade (`mapa_cidade.csv`) e a lista de entregas (`pontos_entrega.csv`).
+- **/outputs**: Diretório onde as visualizações gráficas (mapa, clusters, rotas) são salvas.
+- **/docs**: Contém a documentação do projeto.
+- `requirements.txt`: Lista das dependências Python necessárias.
+
+## 3. Como Executar o Projeto
+
+Siga os passos abaixo para executar a solução em sua máquina local.
+
+### Pré-requisitos
+
+- Python 3.8 ou superior instalado.
+- `pip` (gerenciador de pacotes do Python).
+
+### Passo a Passo
+
+**1. Clone o Repositório**
+(Se o projeto estivesse no Git)
+```bash
+git clone <URL_DO_REPOSITORIO>
+cd Sabor_Express_IA
+
+
+
 #Projeto: Rota Inteligente - Sabor Express
 #Este projeto implementa uma solução de otimização de rotas para a empresa de delivery "Sabor Express". A solução utiliza um grafo para representar o mapa da cidade, o algoritmo de Dijkstra para encontrar o menor caminho entre os pontos e o K-Means para agrupar entregas próximas, otimizando o tempo e o custo das operações.
 #Estrutura de Diretórios
