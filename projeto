@@ -1,8 +1,7 @@
-Projeto: Rota Inteligente - Sabor Express
-Este projeto implementa uma solução de otimização de rotas para a empresa de delivery "Sabor Express". A solução utiliza um grafo para representar o mapa da cidade, o algoritmo de Dijkstra para encontrar o menor caminho entre os pontos e o K-Means para agrupar entregas próximas, otimizando o tempo e o custo das operações.
-Estrutura de Diretórios
-code
-Code
+#Projeto: Rota Inteligente - Sabor Express
+#Este projeto implementa uma solução de otimização de rotas para a empresa de delivery "Sabor Express". A solução utiliza um grafo para representar o mapa da cidade, o algoritmo de Dijkstra para encontrar o menor caminho entre os pontos e o K-Means para agrupar entregas próximas, otimizando o tempo e o custo das operações.
+#Estrutura de Diretórios
+
 /Sabor_Express_IA
 |
 |-- /src
