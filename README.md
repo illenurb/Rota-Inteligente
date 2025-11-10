@@ -411,3 +411,6 @@ pandas
 scikit-learn
 networkx
 matplotlib
+#grafos gerados pelo programa
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/69f54a2e-e2ea-4809-8b9a-bf60d041a6e7" />
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/3e6db306-d3c1-4a22-b5f6-4e24f0cfa425" />
