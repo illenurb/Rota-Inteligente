@@ -412,5 +412,5 @@ scikit-learn
 networkx
 matplotlib
 #grafos gerados pelo programa
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/69f54a2e-e2ea-4809-8b9a-bf60d041a6e7" />
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/3e6db306-d3c1-4a22-b5f6-4e24f0cfa425" />
+<img width="1200" height="800" alt="509859270-6b3c07a9-cff8-461c-a917-560d78ff4f33" src="https://github.com/user-attachments/assets/28f18b54-6546-4452-a3be-504e168b71c0" />
+<img width="1500" height="1000" alt="509859318-62725656-d1a3-4468-81e8-cadd518a0a54" src="https://github.com/user-attachments/assets/319153f2-7559-4194-9c2f-589f9cb9621b" />
